@@ -387,7 +387,7 @@ label[for='toggle-all'] {
 }
 
 #filters li a {
-	color: #83756f;
+	color: #777;
 	margin: 2px;
 	text-decoration: none;
 	cursor: pointer;
@@ -395,6 +395,7 @@ label[for='toggle-all'] {
 
 #filters li a.selected {
 	font-weight: bold;
+	color: rgba(0,0,0, 0.7);
 }
 
 #clear-completed {
